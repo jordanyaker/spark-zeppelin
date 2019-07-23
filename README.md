@@ -1,5 +1,5 @@
 # Zeppelin + Spark
-This is an orchestrated set of Docker and Docker Compose files that will allow for local experimentation with Zeppelin and Spark.
+This is an orchestrated set of Docker and Docker Compose files that will allow for local experimentation with Zeppelin and Spark.  This example was created to support work with the Hortonworks tutorial from https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/.
 
 #Prerequisites
 Before running this example, you need to be sure that Docker has been allocated enough resources on your machine.  At a minimum, you will need to allocate 8Gb (16Gb is preferred) of memory to your docker host.
